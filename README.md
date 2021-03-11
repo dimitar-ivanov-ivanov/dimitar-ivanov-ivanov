@@ -1,7 +1,11 @@
 ### Hi there 👋,I'm Dimitar
-<a href="https://twitter.com/shinokada">
+<a href="https://www.facebook.com/profile.php?id=100025437246884">
   <img align="left" alt="Dimitar Ivanov | Facebook" width="21px" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19754.png"/>
 </a>
+
+<br />
+<br />
+
 - 🔭 I’m currently working on a game store 
 - 🌱 I’m currently learning Spring
 <!--
