@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently working on a game store 
 - 🌱 I’m currently learning Spring
+
+<h1>Hello World! 🌍</h1>
 <!--
 **dimitar-ivanov-ivanov/dimitar-ivanov-ivanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
