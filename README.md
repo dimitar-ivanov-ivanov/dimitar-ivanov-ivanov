@@ -14,7 +14,7 @@
   I'm Dimitar Ivanov and an EU-citizen, Bulgarian 🇧🇬, I'm currently a Software Engineer 🐱‍💻 in Sofia, passionate about learning new technologies and solving problems.
 </p> 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=dimitar-ivanov-ivanov&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=dimitar-ivanov-ivanov&theme=highcontrast&show_icons=true&count_private=true&hide_rank=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitar-ivanov-ivanov&layout=compact)
 
 <!--
