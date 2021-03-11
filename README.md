@@ -1,11 +1,9 @@
 ### Hi there 👋,I'm Dimitar
+<a href="https://twitter.com/shinokada">
+  <img align="left" alt="Dimitar Ivanov | Facebook" width="21px" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19754.png"/>
+</a>
 - 🔭 I’m currently working on a game store 
 - 🌱 I’m currently learning Spring
-- 📫 How to reach me: 
- <form action="mailto:someone@example.com" method="post" enctype="text/plain">
-  <a href = "dimitar.ivanov.ivanov99@gmail.com">@dimitar-ivanov</a>
- </form> 
-
 <!--
 **dimitar-ivanov-ivanov/dimitar-ivanov-ivanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
