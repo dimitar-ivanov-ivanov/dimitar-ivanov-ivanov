@@ -1,4 +1,4 @@
-### Hi there 👋,I'm Dimitar 👨🏻‍🎓 
+### Dimitar Ivanov 👨🏻‍🎓 
 <a href="https://www.facebook.com/profile.php?id=100025437246884">
   <img align="left" alt="Dimitar Ivanov | Facebook" width="21px" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19754.png"/>
 </a>
@@ -10,6 +10,13 @@
 - 🌱 I’m currently learning Spring
 
 <h1>Hello World! 🌍</h1>
+<p>
+  I'm Dimitar Ivanov and an EU-citizen, Bulgarian 🇧🇬, I'm currently a Software Engineer 🐱‍💻 in Sofia, passionate about learning new technologies and solving problems.
+</p> 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=dimitar-ivanov-ivanov&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitar-ivanov-ivanov&layout=compact)
+
 <!--
 **dimitar-ivanov-ivanov/dimitar-ivanov-ivanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
