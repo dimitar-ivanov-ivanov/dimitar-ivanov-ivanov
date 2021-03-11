@@ -11,7 +11,7 @@
 
 <h1>Hello World! 🌍</h1>
 <p>
-  I'm Dimitar Ivanov and an EU-citizen, Bulgarian 🇧🇬, I'm currently a Software Engineer 🐱‍💻 in Sofia, passionate about learning new technologies and solving problems.
+  I'm Dimitar Ivanov and an EU-citizen, Bulgarian <img src="bulgaria-flag-square-icon-32">, I'm currently a Software Engineer 🐱‍💻 in Sofia, passionate about learning new technologies and solving problems.
 </p> 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dimitar-ivanov-ivanov&theme=highcontrast&show_icons=true&count_private=true)
