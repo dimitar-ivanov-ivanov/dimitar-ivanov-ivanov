@@ -7,7 +7,8 @@
 <br />
 
 - 🔭 I’m currently working on a game store 
-- 🌱 I’m currently learning Spring Framework
+- 🌱 I’m currently learning Spring Framework 
+- 💬 Ask me about Java, Spring framework, algorithms or anything Web related.
 
 <h1>Hello World! 🌍</h1>
 <p>
