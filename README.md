@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on a game store 
 - 🌱 I’m currently learning Spring Framework 
-- 🥅 2021 Goals: Find a steady job and be successufu in university.
+- 🥅 2021 Goals: Find a steady job and be successful in university.
 - 💬 Ask me about Java, Spring framework, algorithms or anything Web related.
 
 <h1>Hello World! 🌍</h1>
@@ -26,9 +26,12 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-</p>
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  />
 <div />
+  
+<br />
+<br />
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dimitar-ivanov-ivanov&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitar-ivanov-ivanov&layout=compact)
