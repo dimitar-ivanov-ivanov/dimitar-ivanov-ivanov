@@ -6,16 +6,19 @@
 <br />
 <br />
 
+Carrer:
+- 🔭 Software Engineer Intern at Paysafe Group
+ 
+Personal projets:
 - 🔭 I’m currently working on a game store 
 - 🌱 I’m currently learning Spring Framework 
-- 🥅 2021 Goals: Find a steady job and be successful in university.
+- 🥅 2021 Goals: Be successful in my internship and university.
 - 💬 Ask me about Java, Spring framework, algorithms or anything Web related.
 
 <h1>Hello World! 🌍</h1>
 <p>
   I'm Dimitar Ivanov, an EU-citizen, Bulgarian, I'm currently a Software Engineer 🐱‍💻 in Sofia, passionate about learning new technologies and solving problems.
 </p> 
-
 
 ### Languages and Tools:
 
