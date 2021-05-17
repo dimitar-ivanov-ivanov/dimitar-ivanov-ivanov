@@ -6,10 +6,10 @@
 <br />
 <br />
 
-Carrer:
+Career:
 - 🔭 Software Engineer Intern at Paysafe Group
  
-Personal projets:
+Personal projects:
 - 🔭 I’m currently working on a game store 
 - 🌱 I’m currently learning Spring Framework 
 - 🥅 2021 Goals: Be successful in my internship and university.
