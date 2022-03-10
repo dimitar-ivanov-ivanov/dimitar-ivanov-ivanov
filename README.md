@@ -7,12 +7,12 @@
 <br />
 
 Career:
-- 🔭 Software Engineer Intern at Paysafe Group
+- 🔭 Junior Software Engineer at Paysafe Group
  
 Personal projects:
 - 🔭 I’m currently working on a game store 
-- 🌱 I’m currently learning Spring Framework 
-- 🥅 2021 Goals: Be successful in my internship and university.
+- 🌱 I’m currently learning Multithreading, Garbage collection, Linux, Docker and Kubernetes 
+- 🥅 2022 Goals: Be successful in my work and university.
 - 💬 Ask me about Java, Spring framework, algorithms or anything Web related.
 
 <h1>Hello World! 🌍</h1>
