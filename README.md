@@ -1,8 +1,4 @@
 ### Dimitar Ivanov 👨🏻‍🎓 
-<a href="https://www.facebook.com/profile.php?id=100025437246884">
-  <img align="left" alt="Dimitar Ivanov | Facebook" width="21px" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19754.png"/>
-</a>
-
 <br />
 <br />
 
