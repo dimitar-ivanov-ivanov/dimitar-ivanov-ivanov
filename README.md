@@ -8,7 +8,7 @@
 
 Career:
 - 🔭 Software Engineer at Paysafe Group
-- 
+ 
 <h1>Hello World! 🌍</h1>
 <p>
   I'm Dimitar Ivanov, an EU-citizen, Bulgarian, I'm currently a Software Engineer 🐱‍💻 in Sofia, passionate about learning new technologies and solving problems.
