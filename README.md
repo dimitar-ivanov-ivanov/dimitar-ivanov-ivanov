@@ -1,4 +1,4 @@
-### Dimitar Ivanov 👨🏻‍🎓 
+### Dimitar Ivanov
 <br />
 Career:
 - 🔭 Software Engineer at Paysafe Group
