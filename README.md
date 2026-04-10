@@ -1,7 +1,7 @@
 ### Dimitar Ivanov
 <br />
 Career:
-- 🔭 Software Engineer at Paysafe Group
+- 🔭 Senior Software Engineer at Tide
  
 <h1>Hello World! 🌍</h1>
 <p>
